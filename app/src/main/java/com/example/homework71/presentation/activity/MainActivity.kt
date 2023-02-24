@@ -1,4 +1,4 @@
-package com.example.homework71.presentation
+package com.example.homework71.presentation.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
